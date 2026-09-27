@@ -146,3 +146,13 @@ Job Dashboard/
 
 └── Job Tracker Data - Sheet1 (2).csv
 
+## Dashboard Preview
+
+[Dashboard screenshot 1]
+[Dashboard screenshot 2]
+
+## Data Pipeline
+
+[ n8n workflow screenshot ]
+
+
